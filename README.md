@@ -3,17 +3,17 @@
 ### **Hello World!**
 I am Prakhar Shukla, a 18 y/o programmer who wants to change the 🌍.
 
-I am one of the lead Android and backend Developer of @AndronixApp. I ❤ Kotlin, Javascript, NodeJS and GoLang.
+I am one of the lead Android and backend Developer of [AndronixApp](https://andronix.app). I ❤ Kotlin, Javascript, NodeJS and GoLang.
 <br></br>
 <div>
   
-  🔭 I’m currently working on @AndronixApp, HomeMadeStore and almost 8 other projects (not public).
+  🔭 I’m currently working on [AndronixApp](https://andronix.app), HomeMadeStore and almost 8 other projects (not public).
 
   🌱 I’m also studying for my University Admission Tests.
 
   👯 I’m looking to collaborate on Android and Backend stuff.
 
-  🤠 I’m managing a start-up (@AndronixApp) from ground up with @ultrahacx.
+  🤠 I’m managing a start-up [AndronixApp](https://andronix.app) from ground up with [@ultrahacx](https://github.com/ultrahacx).
 </div>
 <br></br>
 
