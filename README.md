@@ -3,7 +3,7 @@
 ### **Hello World!**
 I am Prakhar Shukla, a 18 y/o programmer who wants to change the 🌍.
 
-I am one of the lead Android and backend Developer and UI designer at [AndronixApp](https://andronix.app). I ❤️ **Java**, **Kotlin**, **Javascript**, **NodeJS**, **GoLang** and **UI Designing**.
+I am one of the lead Android, backend Developer and UI designer at [AndronixApp](https://andronix.app). I ❤️ **Java**, **Kotlin**, **Javascript**, **NodeJS**, **GoLang** and **UI Designing**.
 <br></br>
 <div>
   
