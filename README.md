@@ -14,7 +14,3 @@ I am one of the lead Android, backend Developer and UI designer at [AndronixApp]
   🤠 I’m managing a start-up [AndronixApp](https://andronix.app) from ground up with [@ultrahacx](https://github.com/ultrahacx).
 </div>
 <br></br>
-
-📫 How to reach me:
-
-[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:prakhar@andronix.app) [![Chat on Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/imultrakiller)
