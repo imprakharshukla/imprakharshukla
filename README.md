@@ -4,10 +4,10 @@
 <h1 align="center"> About me</h1>
 
 I am <b>Prakhar Shukla</b>. I am acting as the CTO at [Devriz Technologies LLP](https://devriz.com) working
-on [Andronix](https:andronix.app). I am a mobile and a full stack developer with some experience in DevOps and System
+on [Andronix](https//:andronix.app). I am a mobile and a full stack developer with some experience in DevOps and System
 Administration ⚡
 
-[Andronix App](https:andronix.app), being the **_highest ranking app_** for the "Linux" keyword with over a **_million
+[Andronix App](https//:andronix.app), being the **_highest ranking app_** for the "Linux" keyword with over a **_million
 downloads_** is of the many projects I have been working on for years.
 
 I enjoy building apps and services that have the potential to bring about a change in the world!
