@@ -1,4 +1,4 @@
-<img width="100%"  src="https://github.com/imprakharshukla/imprakharshukla/raw/master/Web%201920%20%E2%80%93%201.svg" > 
+<img width="100%"  src="https://prakharshukla.dev/og_image.png" > 
 
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
