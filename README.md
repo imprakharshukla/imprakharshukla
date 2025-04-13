@@ -5,9 +5,9 @@
 
 I am <b>Prakhar Shukla</b>. I love building products that helps people. Here are a few of them:
 
-[Andronix](https//:andronix.app), being the **highest ranking app** for the "Linux" keyword with over a **1.8M+** downloads.
+[Andronix](https://andronix.app), being the **highest ranking app** for the "Linux" keyword with over a **1.8M+** downloads.
 
-[Lumoflo](https//:lumoflo.com), a platform that let's small businesses open their own online stores in seconds automating the entire process of inventory management, payment gateways, and shipping. We have processed over **₹1.5M+ in transactions**.
+[Lumoflo](https://lumoflo.com), a platform that let's small businesses open their own online stores in seconds automating the entire process of inventory management, payment gateways, and shipping. We have processed over **₹1.5M+ in transactions**.
 
 I enjoy building apps and services that have the potential to bring about a change in the world!
 
