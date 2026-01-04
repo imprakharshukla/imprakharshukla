@@ -1,72 +1,72 @@
-<img width="100%"  src="https://prakhar.codes/og.png" > 
-
-<!-- <h3>About me,</h3> -->
-<h1 align="center">About me</h1>
-
-I am <b>Prakhar Shukla</b>. I love building products that helps people. Here are a few of them:
-
-[Andronix](https://andronix.app), being the **highest ranking app** for the "Linux" keyword with over a **1.8M+** downloads.
-
-[Lumoflo](https://lumoflo.com), a platform that let's small businesses open their own online stores in seconds automating the entire process of inventory management, payment gateways, and shipping. We have processed over **₹1.5M+ in transactions**.
-
-I enjoy building apps and services that have the potential to bring about a change in the world!
-
-   <div align="center">
-
- <h1 align="center">👋🏻 Connect with me</h1>
-
 <div align="center">
-<a  href="https://prakhar.codes" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Prakhar . Codes%20-%230077B5.svg?&style=for-the-badge&logo=codeberg&logoColor=white" /></a>
+  <img width="100%" src="https://prakhar.codes/og.png" alt="Prakhar Shukla" />
 </div>
 
-
- <div align="center">
-
-<h1>🛠 Technical Skills</h1>
-
-
-**I am always up for open source contributions, let's collaborate together!**
+<h1 align="center">hey! i am prakhar shukla.</h1>
 
 <p align="center">
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%2300599C.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-     <img alt="Express" src="https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
-    <img alt="Go Lang" src="https://img.shields.io/badge/go lang-%2300599C.svg?style=for-the-badge&logo=go&logoColor=white"/>
-     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-    
-</p>
-<p>
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/>
-    <img alt="Svelte" src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
-    <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Android" src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
-    <img alt="iOS" src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
-    <img alt="AI" src="https://img.shields.io/badge/AI-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB"/>
-    <img alt="NodeJS" src="https://img.shields.io/badge/node JS-%3DDC84.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>¯
-<p>
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-    <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
-    <img alt="Hasura" src="https://img.shields.io/badge/Hasura-%231EB4D4.svg?style=for-the-badge&logo=hasura&logoColor=white"/>
-    <img alt="Rest APIs" src="https://img.shields.io/badge/Rest APIs-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+  <strong>Serial founder & founding engineer</strong> who just wrapped up at <a href="https://yobr.io">Yobr</a> (Norway).<br/>
+  My products have reached <strong>2.5M+ downloads</strong> and generated <strong>$140K+ in revenue</strong>.<br/>
+  Now <strong>exploring new opportunities</strong> while building <a href="https://lumoflo.com">Lumoflo</a> and <a href="https://andronix.app">Andronix</a>.
 </p>
 
+<p align="center">
+  I build for the <strong>web</strong>, <strong>server</strong>, <strong>mobile</strong>, and <strong>AI agents</strong>.
+</p>
 
-# ⚙️ GitHub Analytics
+<div align="center">
 
-<table>
-  <tr>
-<td><img height="180px" src="https://stats.prakhar.codes/api?username=imprakharshukla&show_icons=true&theme=dark&count_private=true" />
-    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imprakharshukla&layout=compact&theme=dark&count_private=true" /></td>
-  </tr>
-</table>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-prakhar.codes-blue?style=for-the-badge)](https://prakhar.codes)
+  [![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge)](https://prakhar.codes/resume)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iamprakharshukla)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/imprakharshukla)
+
+</div>
+
+---
+
+## What I've Built
+
+**[Andronix](https://andronix.app)** — $140K revenue, 2.5M+ downloads, #1 on Google Play for "Linux"
+Built solo from high school. Android app (Kotlin) + TypeScript backend serving users across 100+ countries.
+
+**[Lumoflo](https://lumoflo.com)** — Multi-tenant e-commerce SaaS
+Payment orchestration, inventory automation, and shipping integration for small businesses.
+
+**[Yobr](https://yobr.io)** — Founding Engineer (Norway, May-Dec 2025)
+Built AI agent system with 100+ tools, led tech stack migration (Next.js, Fastify, Trigger.dev, tRPC), designed async workflows.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**Currently working with:** Vercel AI SDK, Mastra, Trigger.dev, tRPC, Redis, LangGraph
+
+**Note:** I've worked with tons of different tech stacks and I love learning new things. This list is not static and never will be.
+
+---
+
+## Let's Connect
+
+I'm looking for **founding engineer roles** at early-stage startups working on AI/ML, developer tools, or infrastructure.
+
+- Portfolio: [prakhar.codes](https://prakhar.codes)
+- LinkedIn: [iamprakharshukla](https://linkedin.com/in/iamprakharshukla)
+- Twitter: [@imprakharshukla](https://twitter.com/imprakharshukla)
+
+---
+
+<p align="center">
+  <i>Building products people actually use and pay for.</i>
+</p>
