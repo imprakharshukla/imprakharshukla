@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Serial founder & founding engineer</strong> who just wrapped up at <a href="https://yobr.io">Yobr</a> (Norway).<br/>
   My products have reached <strong>2.5M+ downloads</strong> and generated <strong>$140K+ in revenue</strong>.<br/>
-  Now <strong>exploring new opportunities</strong> while building <a href="https://lumoflo.com">Lumoflo</a> and <a href="https://andronix.app">Andronix</a>.
+  Now <strong>exploring new opportunities</strong> while building <a href="https://postsonar.com">PostSonar</a>, <a href="https://lumoflo.com">Lumoflo</a>, and <a href="https://andronix.app">Andronix</a>.
 </p>
 
 <p align="center">
@@ -26,6 +26,9 @@
 ---
 
 ## What I've Built
+
+**[PostSonar](https://postsonar.com)** — AI-powered social media research assistant *(In Progress)*
+Multi-agent system that monitors HackerNews, Reddit, RSS feeds overnight and generates personalized content ideas. Built with Next.js 16, Convex, Mastra, Claude Opus 4.5.
 
 **[Andronix](https://andronix.app)** — $140K revenue, 2.5M+ downloads, #1 on Google Play for "Linux"
 Built solo from high school. Android app (Kotlin) + TypeScript backend serving users across 100+ countries.
@@ -51,7 +54,7 @@ Built AI agent system with 100+ tools, led tech stack migration (Next.js, Fastif
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**Currently working with:** Vercel AI SDK, Mastra, Trigger.dev, tRPC, Redis, LangGraph
+**Currently working with:** Vercel AI SDK, Mastra, Convex, Trigger.dev, tRPC, Redis, LangGraph
 
 **Note:** I've worked with tons of different tech stacks and I love learning new things. This list is not static and never will be.
 
